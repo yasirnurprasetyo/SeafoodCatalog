@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Seafood Catalog List</string>
+    <string name="seafood_name">Nama</string>
+    <string name="instruction">Instruksi</string>
+    <string name="profile">Profile Saya</string>
+    <string name="name">Yasir Nur Prasetya</string>
+    <string name="email">yasirnurprasetya@student.ukrimuniversity.ac.id</string>
+</resources>
